@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  View <a href="https://covidindiatracker.netlify.app/">Covid-19 India Tracker</a>
+  View <a href="https://covid-19tracker-react.netlify.app/">Covid-19 India Tracker</a>
 </p>
 
 ### `npm start`
